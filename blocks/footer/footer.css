@@ -22,7 +22,8 @@ footer .footer {
 }
 
 .footer .brand {
-  grid-area: brand;
+    grid-area: brand;
+    width: 100px;
 }
 
 .footer .nav {

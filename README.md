@@ -1,5 +1,5 @@
 # Edge Delivery Services - WKND Demo
-Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
+Codebase for the ![Television_New_Zealand_logo_2016.svg](..%2F..%2FTelevision_New_Zealand_logo_2016.svg)fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
 
 - Experimentation capabilities 
 - Conversion tracking
